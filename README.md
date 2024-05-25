@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jeet-Bharucha
-- 👀 I’m interested in Coding,Video-editing,Tech Enthusiasts,Coding Club Co-Ordinator
+- 👀 I’m interested in Coding,Video-editing
+- I'm Tech Enthusiasts,Coding Club Co-Ordinator
 - 🌱 I’m currently learning  Full Stack Web-Development
 - 📫 Linkedin : https://www.linkedin.com/in/jeet-bharucha-495065269/
      Facebook : https://www.facebook.com/JeetBharucha.1806/
